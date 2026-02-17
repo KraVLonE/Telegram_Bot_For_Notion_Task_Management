@@ -52,3 +52,4 @@ src/debug.py
 debug_*.py
 src/utils/debug.py
 envname.txt
+bot.py
